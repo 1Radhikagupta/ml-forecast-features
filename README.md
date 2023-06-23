@@ -30,14 +30,6 @@ impacting your customer demand.
 This analysis will be based on the M5 Forecasting dataset of Walmart stores sales records ([Link](
 https://www.kaggle.com/c/m5-forecasting-accuracy)).
 
-## Code
-1. Create a folder Data in your directory where the notebook is located
-2. Download all the files of the kaggle forecasting competition ([Link](
-https://www.kaggle.com/c/m5-forecasting-accuracy)).
-3. Launch the notebook
 
-## About me 🤓
-Senior Supply Chain Engineer with an international experience working on Logistics and Transportation operations. \
-Have a look at my portfolio: [Data Science for Supply Chain Portfolio](https://samirsaci.com) \
-Data Science for Warehousing📦, Transportation 🚚 and Demand Forecasting 📈 
+
 
